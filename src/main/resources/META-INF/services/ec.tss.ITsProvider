@@ -1,0 +1,3 @@
+ec.nbdemetra.ra.providers.oracle.VintageOracleProvider
+ec.nbdemetra.ra.providers.txt.VintageTxtProvider
+ec.nbdemetra.ra.providers.spreadsheets.VintagesSpreadSheetProvider
